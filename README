@@ -1,0 +1,42 @@
+# User Login, Sound Playback & Utilities
+
+A simple Python application for user login, audio playback, and basic utilities like a calculator and personal notes.
+
+## Features
+
+- User registration and login using local text files
+- Password validation and management
+- View user ID and play associated sound
+- Simple calculator functionality
+- Daily note system
+- Sound playback with unit and tens decomposition for IDs
+
+## Installation
+
+1. Clone the repository:
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+
+
+---
+
+```markdown
+# سیستم ورود کاربر، پخش صدا و ابزارها
+
+یک برنامه ساده پایتون برای ورود کاربران، پخش فایل‌های صوتی و ابزارهای پایه‌ای مانند ماشین‌حساب و یادداشت شخصی.
+
+## ویژگی‌ها
+
+- ثبت نام و ورود کاربران با استفاده از فایل‌های متنی محلی
+- اعتبارسنجی و مدیریت رمز عبور
+- مشاهده شناسه کاربری و پخش فایل صوتی مرتبط
+- ماشین‌حساب ساده
+- سیستم یادداشت روزانه
+- پخش صدا با تجزیه واحد و دهگان برای شناسه‌ها
+
+## نصب
+
+1. کلون کردن مخزن:
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
